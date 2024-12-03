@@ -9,7 +9,12 @@ The dataset contains house sale prices for King County, which includes Seattle. 
 The Project is divided into the following modules: 
 
 Module 1: Importing Data Sets
+
 Module 2: Data Wrangling
+
 Module 3: Exploratory Data Analysis
+
 Module 4: Model Development
+
 Module 5: Model Evaluation and Refinement
+
